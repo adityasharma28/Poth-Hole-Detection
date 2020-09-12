@@ -1,1 +1,5 @@
-# Poth-Hole-Detection
+The major problem in Bharat is the road network which is gigantic. Rain and other climatic
+conditions make the roads worse and the resultant is the potholes. Sometimes it's the bad quality of material used for road construction which even the govt is unable to detect at all the places. This adversity in the road conditions due to potholes results in accidents and loss of various other types.
+So to overcome this inadequacy of roads and resulting loss we are making a pothole detection tool. This tool uses image processing, machine learning, and deep learning. The tool uses a camera to detect potholes in real-time to give an alert and driving assistance(lateral and longitudinal) to the vehicle driver so that he/she can lower the speed accordingly.
+The assurance of a pothole will be done using hardware like IR, accelerometer, etc. so that the 
+dimensions of the potholes can be measured along with its coordinates for positions. A database will be managed that can be sent to the government. for transparency as well as a map system can be created to give navigation support at night time when the pothole detection tool of ours is inefficient. Analysis of the data can be done to make a report of the inadequacy of materials used for road construction and the government can get a broader view of the road construction contracts.
